@@ -3,7 +3,7 @@ and i live in São Paulo 🇧🇷. I am a Marketing student at <a href="https://
 
 - 👀 I’m interested in learning more about Data Science and Business Intelligence
 - 🌱 I’m currently learning Python and SQL 
-- 📫 How to reach me <a href="https://www.linkedin.com/in/vinicius-g7">LinkedIn</a> - <a href="https://www.instagram.com/talvezcavini">Instagram</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/vinicius-g7">LinkedIn</a>,<a href="https://www.instagram.com/talvezcavini"> Instagram</a> and <a href="https://www.tiktok.com/@talvezcavini">TikTok</a>
 
 <!---
 talvezcavini/talvezcavini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
