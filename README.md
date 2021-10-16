@@ -1,5 +1,5 @@
 ### 👋 Hi, my names is Vinicius Guedes
-I'm 19 yo, living in São Paulo 🇧🇷.
+I'm 19 yo, living in São Paulo 🇧🇷. <br>
 I am a Marketing student at <a href="https://en.wikipedia.org/wiki/University_of_S%C3%A3o_Paulo">University of São Paulo</a> and a recent Computer Technician graduated. 
 
 - 👀 I’m interested in learning more about Data Science and Business Intelligence
