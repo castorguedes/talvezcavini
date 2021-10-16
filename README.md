@@ -6,7 +6,7 @@ I am a Marketing student at <a href="https://en.wikipedia.org/wiki/University_of
 - 🌱 I’m currently learning Python and SQL 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/vinicius-g7">LinkedIn</a>,<a href="https://www.instagram.com/talvezcavini"> Instagram</a> and <a href="https://www.tiktok.com/@talvezcavini">TikTok</a>
 
-<a href="https://linkedin.com/in/vinicius-g7><img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" /> </a>
+<a href="https://linkedin.com/in/vinicius-g7"><img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" /> </a>
 
 <!---
 talvezcavini/talvezcavini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
