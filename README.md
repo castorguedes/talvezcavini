@@ -10,8 +10,11 @@ I am a Marketing student at <a href="https://en.wikipedia.org/wiki/University_of
 <a href="https://www.instagram.com/talvezcavini"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
 <a href="https://www.tiktok.com/@talvezcavini"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /> </a>
 
-
-
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talvezcavini&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=talvezcavini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 <!---
 talvezcavini/talvezcavini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
