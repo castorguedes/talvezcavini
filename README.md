@@ -5,7 +5,7 @@ I am a Marketing student at <a href="https://en.wikipedia.org/wiki/University_of
 - 👀 I’m interested in learning more about Data Science and Business Intelligence
 - 🌱 I’m currently learning Python and frontend technologies.
 - 📫 My main professional experience was at <a href="https://educacao.sme.prefeitura.sp.gov.br/">São Paulo Municipal Department of Education</a>
-- ⚙️ I'm currently workin at <a href="https://croct.com/">Croct</a>
+- ⚙️ I'm currently working at <a href="https://croct.com/">Croct</a>
 
 <a href="https://www.linkedin.com/in/vinicius-g7"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 <a href="https://medium.com/@talvezcavini"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> </a>
