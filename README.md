@@ -9,8 +9,8 @@ I am a Marketing student at <a href="https://en.wikipedia.org/wiki/University_of
 <a href="https://www.linkedin.com/in/vinicius-g7"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 <a href="https://medium.com/@talvezcavini"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> </a>
 <a href="https://www.instagram.com/talvezcavini"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
-<a href="https://www.twitter.com/talvezcavini"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a>
-<a href="https://www.tiktok.com/@talvezcavini"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /> </a>
+<a href="https://www.twitter.com/castorguedes"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a>
+<a href="https://www.tiktok.com/@redutismo"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /> </a>
 
 
 
